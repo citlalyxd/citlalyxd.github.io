@@ -1,0 +1,45 @@
+div.izquierda{
+	border: 1px solid #000000;
+    width: 30%;
+    display: inline-block;
+    background-color:#000000;
+    padding: 0.5em;
+    margin: 20px;
+}
+div.derecha{
+    margin-top: 20px;
+    width: 550px;
+    display: inline-block;
+    background-color:#5CC5EF;
+    padding: 1em;
+    margin-left: 6px;
+}
+.celda{
+    height: 35px;
+    width: 150px;
+    background-color: #2E86C1;
+    color: #ffffff;
+    border: 0px;
+    text-align: center;
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    margin-right: 0.3em;
+    margin-left: 1.8em;
+}
+h3{
+ color: aliceblue;
+ text-align: center;  
+}
+
+#btn1{background-color: #F4D03F;}
+#btn2{background-color: #AF7AC5;}
+#btn3{background-color: #2980B9;}
+#btn4{background-color: #A1887F;}
+#btn5{background-color: #FAD7A0;}
+#btn6{background-color: #F6DDCC;}
+#btn7{background-color: #FFCDD2;}
+#btn8{background-color: #D7DBDD;}
+#btnprimos{background-color: #2E4053;}
+
+
+
